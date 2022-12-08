@@ -1,0 +1,14 @@
+{
+  "name": "prow10226",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "365bet Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ 365bet เว็บเดิมพันออนไลน์ สมัครเล่นเกม ไม่ต้องโหลดแอพ เล่นฟรี",
+  "keywords": [
+    "365bet Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ 365bet เว็บเดิมพันออนไลน์ สมัครเล่นเกม ไม่ต้องโหลดแอพ เล่นฟรี"
+  ],
+  "repository": "https://github.com/yorkinyellow/prow10226",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
